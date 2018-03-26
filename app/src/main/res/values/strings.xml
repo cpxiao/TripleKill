@@ -1,6 +1,5 @@
 <resources>
-    <string name="app_name">Idle Ballz</string>
-    <string name="ball1">Ball</string>
+    <string name="app_name">Triple Kill</string>
 
     <string name="ok">OK</string>
     <string name="cancel">Cancel</string>
